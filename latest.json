@@ -1,0 +1,17 @@
+{
+  "version": "0.3.0",
+  "build": "6",
+  "minimumMacOSVersion": "14.0",
+  "architectures": [
+    "arm64",
+    "x86_64"
+  ],
+  "downloadUrl": "https://github.com/Benfic4rthur/JaCopiei-Releases/releases/download/v0.3.0/JaCopiei-0.3.0-universal.dmg",
+  "releaseNotesUrl": "https://github.com/Benfic4rthur/JaCopiei-Releases/releases/tag/v0.3.0",
+  "sha256": "108c618ed963449d17f9e8ff3fc86a243119af6dae11810f10ac402a9d72ce77",
+  "sizeBytes": 2973805,
+  "channel": "preview",
+  "codeSigning": "ad-hoc-not-notarized",
+  "automaticUpdatesAvailable": false,
+  "updateFeedUrl": "https://raw.githubusercontent.com/Benfic4rthur/JaCopiei-Releases/main/appcast.xml"
+}
