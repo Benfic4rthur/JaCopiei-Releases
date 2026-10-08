@@ -1,2 +1,2 @@
-340a5720b39af877177c0eaa8f6b5628660e843b5acd8f5bcc0e47f92bc3b2fe  JaCopiei-0.4.0-universal.dmg
-8e225a153f83e10ad9eee88be6186f981638c882e3fd164e81adeb92d799ab82  JaCopiei-0.4.0-universal.zip
+cd01f6a2b59b85236986d87439dacfaadcacb635f843469b0de63648be377dd1  JaCopiei-0.5.2-universal.dmg
+2e099a72cf7906ca0d6624926fc61d3366bfede8b16f5f2e5d96e044ef65497a  JaCopiei-0.5.2-universal.zip

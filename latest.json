@@ -1,24 +1,24 @@
 {
-  "version": "0.4.0",
-  "build": "7",
-  "releaseTag": "v0.4.0",
+  "version": "0.5.2",
+  "build": "10",
+  "releaseTag": "v0.5.2",
   "minimumMacOSVersion": "14.0",
   "architectures": [
     "arm64",
     "x86_64"
   ],
-  "downloadUrl": "https://github.com/Benfic4rthur/JaCopiei-Releases/releases/download/v0.4.0/JaCopiei-0.4.0-universal.dmg",
-  "releaseNotesUrl": "https://github.com/Benfic4rthur/JaCopiei-Releases/releases/tag/v0.4.0",
-  "sha256": "340a5720b39af877177c0eaa8f6b5628660e843b5acd8f5bcc0e47f92bc3b2fe",
-  "sizeBytes": 3179908,
-  "channel": "preview",
-  "codeSigning": "ad-hoc-not-notarized",
-  "automaticUpdatesAvailable": false,
+  "downloadUrl": "https://github.com/Benfic4rthur/JaCopiei-Releases/releases/download/v0.5.2/JaCopiei-0.5.2-universal.dmg",
+  "releaseNotesUrl": "https://github.com/Benfic4rthur/JaCopiei-Releases/releases/tag/v0.5.2",
+  "sha256": "cd01f6a2b59b85236986d87439dacfaadcacb635f843469b0de63648be377dd1",
+  "sizeBytes": 5987043,
+  "channel": "stable",
+  "codeSigning": "self-signed-not-notarized",
+  "automaticUpdatesAvailable": true,
   "updateFeedUrl": "https://raw.githubusercontent.com/Benfic4rthur/JaCopiei-Releases/main/appcast.xml",
   "zipArchive": {
-    "fileName": "JaCopiei-0.4.0-universal.zip",
-    "url": "https://github.com/Benfic4rthur/JaCopiei-Releases/releases/download/v0.4.0/JaCopiei-0.4.0-universal.zip",
-    "sha256": "8e225a153f83e10ad9eee88be6186f981638c882e3fd164e81adeb92d799ab82",
-    "sizeBytes": 2683005
+    "fileName": "JaCopiei-0.5.2-universal.zip",
+    "url": "https://github.com/Benfic4rthur/JaCopiei-Releases/releases/download/v0.5.2/JaCopiei-0.5.2-universal.zip",
+    "sha256": "2e099a72cf7906ca0d6624926fc61d3366bfede8b16f5f2e5d96e044ef65497a",
+    "sizeBytes": 4447848
   }
 }
