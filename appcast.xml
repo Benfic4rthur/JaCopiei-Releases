@@ -9,6 +9,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Atualizações assinadas do JáCopiei? para macOS.</description>
         <language>pt-BR</language>
         <item>
+            <title>0.5.3</title>
+            <pubDate>Thu, 08 Oct 2026 18:54:50 -0300</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/Benfic4rthur/JaCopiei-Releases/releases/tag/v0.5.3</sparkle:fullReleaseNotesLink>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# JáCopiei? 0.5.3
+
+- A frase completa com o desconto do cupom fica em uma linha, com toda a largura do painel; os botões de continuar para pagamento e remover cupom aparecem abaixo dela.
+- Ao voltar dos Ajustes do macOS, o app confere novamente a permissão de notificações e oferece “Verificar novamente” se necessário.
+- Se apenas o identificador local deste Mac desaparecer do Chaves, uma licença paga válida pode restaurar o mesmo identificador, preservando seu vínculo.
+- Aplicativo universal para Apple Silicon e Intel, com atualização assinada pela mesma identidade local da versão anterior.
+
+As regras do teste gratuito, dos cupons e dos pagamentos não foram alteradas. O macOS pode pedir autorização do Chaves ao abrir uma nova versão; esse pedido permite acessar os registros locais existentes.
+]]></description>
+            <enclosure url="https://github.com/Benfic4rthur/JaCopiei-Releases/releases/download/v0.5.3/JaCopiei-0.5.3-universal.dmg" length="5999015" type="application/octet-stream" sparkle:edSignature="lYyBQIzowLd3bIr3NdCZTDQl9/Kj6vogipT03FFJG/7wQvYCF+rgdQnH2jAQmm+7FPVvPPJSWVuvwHOL+RQwBw=="/>
+        </item>
+        <item>
             <title>0.5.2</title>
             <pubDate>Thu, 08 Oct 2026 18:28:35 -0300</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/Benfic4rthur/JaCopiei-Releases/releases/tag/v0.5.2</sparkle:fullReleaseNotesLink>
@@ -29,6 +47,6 @@ As regras do teste gratuito e dos pagamentos não foram alteradas nesta versão.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: DV7T4tH6rjgy+mBEUTdehAwZtf6yJYor8NR3cxgHwG0IQF1zZPcWR8MxrQhRbktAln1FDSVTprmAo1Wfom5TCA==
-length: 2152
+edSignature: IeEtmuEN4nsi/LJfXoYrGaiFwPUGhRtwZAQGswu90fXZInlYeYUCwZZ8w+l5xsrIcgp9lKVz+GyQ8JvEZa0EDA==
+length: 3822
 -->
