@@ -9,6 +9,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Atualizações assinadas do JáCopiei? para macOS.</description>
         <language>pt-BR</language>
         <item>
+            <title>0.5.7</title>
+            <pubDate>Thu, 08 Oct 2026 22:39:07 -0300</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/Benfic4rthur/JaCopiei-Releases/releases/tag/v0.5.7</sparkle:fullReleaseNotesLink>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.5.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# JáCopiei? 0.5.7
+
+- Na primeira tela de um Mac sem licença, **Contratar licença** e **Já tenho assinatura** aparecem lado a lado. A segunda opção recupera ou transfere a assinatura pelo e-mail da compra, sem comprar novamente.
+- Depois que a licença fica ativa neste Mac, a faixa de contratação desaparece. O cancelamento de uma assinatura paga continua disponível no menu **Assinatura e cancelamento**.
+- O teste, a identificação deste Mac, a licença e uma compra pendente passam a ficar em arquivos privados do aplicativo. A abertura não solicita senha do Chaves; instalações antigas que precisarem importar dados mostram uma ação explícita para essa importação única.
+- O instalador universal funciona em Macs Apple Silicon e Intel com macOS 14 ou superior.
+]]></description>
+            <enclosure url="https://github.com/Benfic4rthur/JaCopiei-Releases/releases/download/v0.5.7/JaCopiei-0.5.7-universal.dmg" length="6348911" type="application/octet-stream" sparkle:edSignature="y8oEcZB7wxANbGfJbqewegim500LglMZSkg2bDx8gr+4SWWbaMBC7or8VPSp/OUIiETXEnXBg1+boEDDrqazCQ=="/>
+        </item>
+        <item>
             <title>0.5.6</title>
             <pubDate>Thu, 08 Oct 2026 22:13:59 -0300</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/Benfic4rthur/JaCopiei-Releases/releases/tag/v0.5.6</sparkle:fullReleaseNotesLink>
@@ -103,6 +119,6 @@ As regras do teste gratuito e dos pagamentos não foram alteradas nesta versão.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: Hu+QzC3YQeto5f1qmVZQoA/nGN4QNdFweEXuMdW13Ju7J+aWXuMZ74D2yOzu1+WxZ5lHCOg2golGJnHGR5q/Bg==
-length: 9054
+edSignature: B1N6SJNAWfjP0FR1dmpScpX3oL5KLmNIGzyZRKzk75gRIQYa3L2A/vc4MNYnz3jlEOQjrV/SLhtaSJ177z9SBQ==
+length: 10684
 -->
