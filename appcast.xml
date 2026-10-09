@@ -9,6 +9,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Atualizações assinadas do JáCopiei? para macOS.</description>
         <language>pt-BR</language>
         <item>
+            <title>0.5.9</title>
+            <pubDate>Thu, 08 Oct 2026 23:11:04 -0300</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/Benfic4rthur/JaCopiei-Releases/releases/tag/v0.5.9</sparkle:fullReleaseNotesLink>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.5.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# JáCopiei? 0.5.9
+
+- O campo do código de recuperação agora remove caracteres que não são números e aceita apenas os primeiros oito dígitos, mesmo quando o texto colado traz quebras de linha ou uma cópia repetida. Isso permite confirmar o código que antes parecia completo, mas deixava o botão desativado.
+]]></description>
+            <enclosure url="https://github.com/Benfic4rthur/JaCopiei-Releases/releases/download/v0.5.9/JaCopiei-0.5.9-universal.dmg" length="6370123" type="application/octet-stream" sparkle:edSignature="aMcgsh2vJhhSd1Co6Fmbw4w/2FpFhEJ1d2UCsNCBZw2aFr+/0G3Ii5ZOhH4hyDtzCLQT4mjO8sVEoqRHBi6fBw=="/>
+        </item>
+        <item>
             <title>0.5.8</title>
             <pubDate>Thu, 08 Oct 2026 22:59:11 -0300</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/Benfic4rthur/JaCopiei-Releases/releases/tag/v0.5.8</sparkle:fullReleaseNotesLink>
@@ -134,6 +147,6 @@ As regras do teste gratuito e dos pagamentos não foram alteradas nesta versão.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: YSwpaxn86DEgG7g02o8Mj+zXQih7gTAkpegGSzIe9qO9KlLdrOI+Lz62lyaEwpXTWb21Fnzn1j9KLTYf7AhFDQ==
-length: 12068
+edSignature: nuvfqerAjBwbwHI1Sl3BeJnOJg69Z3dPW1TmCQVdSX3RvVH1JgEHjc+Z2lvntVyLllIiyYxTupnoma8NlceZDw==
+length: 13231
 -->
