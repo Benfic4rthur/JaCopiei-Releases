@@ -9,6 +9,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Atualizações assinadas do JáCopiei? para macOS.</description>
         <language>pt-BR</language>
         <item>
+            <title>0.5.8</title>
+            <pubDate>Thu, 08 Oct 2026 22:59:11 -0300</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/Benfic4rthur/JaCopiei-Releases/releases/tag/v0.5.8</sparkle:fullReleaseNotesLink>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.5.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# JáCopiei? 0.5.8
+
+- O aplicativo deixa de consultar o Chaves automaticamente ao abrir. Em uma instalação sem dados locais, a importação dos dados de versões antigas depende de uma escolha explícita.
+- Quando há licença ativa, o botão **Assinatura** ao lado de **Perfis**, **Avisos** e **Histórico** mostra a validade. Assinaturas pagas podem ser canceladas ali, sem interromper o período já pago.
+- O instalador universal mantém o visual personalizado também quando o macOS interpreta o nome do volume de forma diferente.
+]]></description>
+            <enclosure url="https://github.com/Benfic4rthur/JaCopiei-Releases/releases/download/v0.5.8/JaCopiei-0.5.8-universal.dmg" length="6366479" type="application/octet-stream" sparkle:edSignature="muI3bjOTKQVf+pkfkh7ef+DJIpN223ebELsNwtrgx0onqhDAQqJ4s5NhJQa4g9c6SMgl5GbqazMek30ro65XDQ=="/>
+        </item>
+        <item>
             <title>0.5.7</title>
             <pubDate>Thu, 08 Oct 2026 22:39:07 -0300</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/Benfic4rthur/JaCopiei-Releases/releases/tag/v0.5.7</sparkle:fullReleaseNotesLink>
@@ -119,6 +134,6 @@ As regras do teste gratuito e dos pagamentos não foram alteradas nesta versão.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: B1N6SJNAWfjP0FR1dmpScpX3oL5KLmNIGzyZRKzk75gRIQYa3L2A/vc4MNYnz3jlEOQjrV/SLhtaSJ177z9SBQ==
-length: 10684
+edSignature: YSwpaxn86DEgG7g02o8Mj+zXQih7gTAkpegGSzIe9qO9KlLdrOI+Lz62lyaEwpXTWb21Fnzn1j9KLTYf7AhFDQ==
+length: 12068
 -->
