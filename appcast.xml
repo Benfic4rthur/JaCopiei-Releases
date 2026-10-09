@@ -9,6 +9,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Atualizações assinadas do JáCopiei? para macOS.</description>
         <language>pt-BR</language>
         <item>
+            <title>0.5.6</title>
+            <pubDate>Thu, 08 Oct 2026 22:13:59 -0300</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/Benfic4rthur/JaCopiei-Releases/releases/tag/v0.5.6</sparkle:fullReleaseNotesLink>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.5.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# JáCopiei? 0.5.6
+
+- O pagamento abre em uma sessão temporária, sem reutilizar automaticamente a conta do Mercado Pago já conectada no navegador. Se o Mac não oferecer esse modo, o aplicativo permite copiar o link para abrir em um perfil de visitante.
+- A recuperação por e-mail continua permitindo transferir o acesso para outro Mac. Depois da transferência, o acesso do Mac anterior é invalidado no servidor.
+- O instalador é universal: o mesmo arquivo funciona em Macs Apple Silicon e Intel com macOS 14 ou superior.
+
+Esta versão não altera a análise de risco dos cartões pelo Mercado Pago. Uma recusa de pagamento precisa ser resolvida no próprio meio de pagamento ou com o provedor.
+]]></description>
+            <enclosure url="https://github.com/Benfic4rthur/JaCopiei-Releases/releases/download/v0.5.6/JaCopiei-0.5.6-universal.dmg" length="6258962" type="application/octet-stream" sparkle:edSignature="o6GR9+eHU4bCgGDdCfvQ5B/C22KlMzQVzrh6rx/teiyad6zLnmbofxnPxJpRuDu02jFmM64kSUIcliGzk/gcBg=="/>
+        </item>
+        <item>
             <title>0.5.5</title>
             <pubDate>Thu, 08 Oct 2026 19:22:29 -0300</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/Benfic4rthur/JaCopiei-Releases/releases/tag/v0.5.5</sparkle:fullReleaseNotesLink>
@@ -86,6 +103,6 @@ As regras do teste gratuito e dos pagamentos não foram alteradas nesta versão.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 3BEQhHZMv6YpP0cse97XHEFvdXxk9aj4LHzyokB6S2GnvGwOqi/I+KfkbkrB7ElTyEpgfo73NcNHYWY0eq/cDw==
-length: 7505
+edSignature: Hu+QzC3YQeto5f1qmVZQoA/nGN4QNdFweEXuMdW13Ju7J+aWXuMZ74D2yOzu1+WxZ5lHCOg2golGJnHGR5q/Bg==
+length: 9054
 -->
