@@ -9,6 +9,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Atualizações assinadas do JáCopiei? para macOS.</description>
         <language>pt-BR</language>
         <item>
+            <title>0.5.10</title>
+            <pubDate>Thu, 08 Oct 2026 23:29:49 -0300</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/Benfic4rthur/JaCopiei-Releases/releases/tag/v0.5.10</sparkle:fullReleaseNotesLink>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.5.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# JáCopiei? 0.5.10
+
+- A assinatura de teste concedida para validar o cancelamento agora aparece na área Assinatura com o mesmo botão de cancelar do plano mensal, identificada claramente como simulação sem cobrança. O acesso continua até o fim do período concedido após o cancelamento.
+]]></description>
+            <enclosure url="https://github.com/Benfic4rthur/JaCopiei-Releases/releases/download/v0.5.10/JaCopiei-0.5.10-universal.dmg" length="6373395" type="application/octet-stream" sparkle:edSignature="gqXc0DMIylyRkWhDDryJOrtzR+FbuDuo06/Ja5weED2BTSrPwMTmR0yu+1qTyqBYp32i/WvYCWu4IlxaL58IAA=="/>
+        </item>
+        <item>
             <title>0.5.9</title>
             <pubDate>Thu, 08 Oct 2026 23:11:04 -0300</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/Benfic4rthur/JaCopiei-Releases/releases/tag/v0.5.9</sparkle:fullReleaseNotesLink>
@@ -147,6 +160,6 @@ As regras do teste gratuito e dos pagamentos não foram alteradas nesta versão.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: nuvfqerAjBwbwHI1Sl3BeJnOJg69Z3dPW1TmCQVdSX3RvVH1JgEHjc+Z2lvntVyLllIiyYxTupnoma8NlceZDw==
-length: 13231
+edSignature: Gvc2M/wXQKZKy0zDihYHrt7vWNb9DejJxLGAgwemy7VhyPkEUzPhgO3F9wkb05IVTC7+5Wq+GHy1CyjbkbOEAA==
+length: 14376
 -->
